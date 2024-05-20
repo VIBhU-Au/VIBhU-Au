@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Structures & Web Devlopment
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 aavibhu@gmail.com
 
 <!---
 VIBhU-Au/VIBhU-Au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
